@@ -27,7 +27,7 @@ Abdulrahman Sayed</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
 </a>
 
-- 🔭 I’m currently Student In **HTI**
+- 🔭 I’m currently Working as A **Freelancer**
 
 - 🌱 I’m currently learning **DevOps & Cloud , Backend Development ,Emerging Tools**
 
