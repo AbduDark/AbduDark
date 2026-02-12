@@ -86,7 +86,7 @@ const abdulrahman = {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulrahman-sayed-58b111362" target="_blank">
+  <a href="https://linkedin.com/in/abdu-ewian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/abduewian" target="_blank">
